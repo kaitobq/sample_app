@@ -70,3 +70,8 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem 'base64'
+gem 'bigdecimal'
+gem 'mutex_m'
+gem 'drb'
